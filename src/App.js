@@ -17,7 +17,7 @@ function App() {
             <Main>
                 <Routes>
                     <Route
-                        path="/"
+                        path="/React_Country"
                         element={
                             <HomePage
                                 countries={countries}
